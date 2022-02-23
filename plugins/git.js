@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 
 
-*githublink (Setup)  :  *https://github.com/sanuksd/sanu*
+*githublink (Setup)  :  https://github.com/sanuksd/sanu*
 
 `}) 
 
